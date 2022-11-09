@@ -106,6 +106,6 @@ SuiTypography.propTypes = {
   customClass: PropTypes.string,
 };
 
-SuiTypography.displayName = 'SuiTypography';
+SuiTypography.displayName = "SuiTypography";
 
 export default SuiTypography;
